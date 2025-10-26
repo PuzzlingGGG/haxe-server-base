@@ -1,0 +1,6 @@
+-lib tink_web
+-lib tink_http
+-lib tink_json
+-lib hxnodejs
+-main Server
+-js server.js
